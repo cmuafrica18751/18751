@@ -1,5 +1,5 @@
 ## Webpage
-(website)[https://www.linkedin.com/in/courage-ekoh/]
+[website](https://www.linkedin.com/in/courage-ekoh/)
 
 ## Office hours
 
