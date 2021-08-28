@@ -1,17 +1,17 @@
 instructors:
   - name: Moise Busogi | NA | busogi@cmu.edu
     profile_pic: /_images/pp/mbusogi.png
-    webpage: https://www.africa.engineering.cmu.edu/faculty-and-staff/directory/bios/busogi-moise.html
+    webpage: /_people/moise.md
 
 teaching_assistants:
   - name: Adebayo Oshingbesan | NA | oaadebay@andrew.cmu.jpg
     profile_pic: /_images/pp/oaadebay.jpg
-    webpage: https://dehbaiyor.github.io/
+    webpage: /_people/adebayo.md
 
   - name: Courage Ekoh | NA | coekoh@andrew.cmu.edu
     profile_pic: /_images/pp/avatar.jpg
-    webpage: https://www.linkedin.com/in/courage-ekoh/
+    webpage: /_people/courage.md
 
   - name: Posholi Sylvest Nyamane | NA | pnyamane@andrew.cmu.edu
     profile_pic: /_images/pp/avatar.jpg
-    webpage: https://www.linkedin.com/in/posholi-sylvester-nyamane/
+    webpage: /_people/posholi.md
